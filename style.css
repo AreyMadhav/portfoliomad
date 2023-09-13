@@ -106,7 +106,7 @@ body {
 
 h1 {
     font-family: 'Courier New', monospace; /* Use a monospaced font */
-    font-size: 25px; /* Adjust the font size as needed */
+    font-size: 10px; /* Adjust the font size as needed */
     color: #00ff00; /* Adjust the color to your preference */
     /* Additional styling as needed */
 }
